@@ -8,4 +8,4 @@
 
 `GET`
 
-- http://localhost:8000/ipfs/<cid>
+- http://localhost:8000/ipfs/`<cid>`
