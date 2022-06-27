@@ -2,10 +2,10 @@
 
 `POST`
 
-- http://localhost:8000/ipfs
+- `http://localhost:8000/ipfs`
 
 ### get data from IPFS
 
 `GET`
 
-- http://localhost:8000/ipfs/`<cid>`
+- `http://localhost:8000/ipfs/<cid>`
